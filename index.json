@@ -55,12 +55,44 @@
     ],
     "friends":[
         {
-            "id":"",
-            "firstName":"",
-            "lastName":"",
-            "gender":"",
-            "profile":"",
-            "contactDetails":""
+            "id":"0",
+            "firstName":"Sihlandlo",
+            "lastName":"Makhumsha",
+            "gender":"Male",
+            "profile":"https://images.unsplash.com/photo-1629339942248-45d4b10c8c2f?q=80&w=2072&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+            "contactDetails":"0725047852"
+        },
+        {
+            "id":"1",
+            "firstName":"Elvin",
+            "lastName":"Harris",
+            "gender":"Male",
+            "profile":"https://harriselvin.github.io/hostedImages/Images/Elvin-shoulders.jpg",
+            "contactDetails":"0625355271"
+        },
+        {
+            "id":"2",
+            "firstName":"Chloe",
+            "lastName":"Smith",
+            "gender":"Female",
+            "profile":"https://chlowus.github.io/Images---Bootstrap-Project/proffesional%20photo.png",
+            "contactDetails":"0780528689"
+        },
+        {
+            "id":"3",
+            "firstName":"Jayden",
+            "lastName":"Van Rooyen",
+            "gender":"Male",
+            "profile":"https://harriselvin.github.io/hostedImages/Images/Jayden.jpg",
+            "contactDetails":"0782919890"
+        },
+        {
+            "id":"4",
+            "firstName":"Yonela",
+            "lastName":"Mangele",
+            "gender":"Male",
+            "profile":"https://yonelamangele.github.io/Images/20240422_122539.jpg",
+            "contactDetails":"0684255886"
         }
     ]
 }
